@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**nithya-itcyber/nithya-itcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, je suis Nithya ! 👋
 
-Here are some ideas to get you started:
+💻 Professionnelle de l'informatique | Analyste systèmes | Cybersécurité et administration des systèmes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je possède 2 ans d'expérience professionnelle en tant que System Analyst chez Tata Consultancy Services (TCS), où j'ai participé à des projets bancaires internationaux.
+
+### 🔧 Compétences techniques
+
+- **Programmation et Data :** SQL, Informatica ETL, Power BI
+- **Administration systèmes :** Windows Server, Active Directory, GPO, Linux
+- **Cybersécurité :** Kali Linux, audit de sécurité, tests d'intrusion
+- **Virtualisation :** VMware vSphere
+- **Développement :** Swift, développement iOS
+
+### 📂 Projets
+
+- Administration de Windows Server et Active Directory
+- Administration et supervision de systèmes Linux
+- Travaux pratiques en cybersécurité et analyse de vulnérabilités
+- Scripts d'automatisation avec PowerShell
+- Sécurité réseau et projets d'infrastructure informatique
+
+### 🎯 Objectif professionnel
+
+Je développe actuellement mes compétences en cybersécurité et en administration des systèmes et réseaux. Je suis à la recherche d'opportunités professionnelles dans les domaines de l'informatique, de la Data et de la cybersécurité en France.
+
+### 📫 Me contacter
+
+- LinkedIn : www.linkedin.com/in/nithya-nadaradjane-28b361365
